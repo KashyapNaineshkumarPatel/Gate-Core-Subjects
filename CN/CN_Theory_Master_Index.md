@@ -7,7 +7,7 @@ This index tracks the complete architectural study path for core networking and 
 ### Module 1: The Network Layer (The Core Engine)
 - [x] **1.1 Addressing & Subnetting** (Classes, CIDR, VLSM, Supernetting/Route Aggregation, Longest Prefix Match).
 - [x] **1.2 IPv4 Architecture** (The 20-byte Header, IHL Scaling, MTU Limits, 8-Byte Rule, Packet Fragmentation).
-- [ ] **1.3 ICMP & Error Reporting** (Ping, Traceroute, Time Exceeded, Destination Unreachable, TTL mechanics). *<-- WE ARE HERE*
+- [ ] **1.3 ICMP & Error Reporting** (Ping, Traceroute, Time Exceeded, Destination Unreachable, TTL mechanics). 
 - [ ] **1.4 Routing Algorithms** (Distance Vector/RIP vs. Link State/OSPF, Dijkstra's & Bellman-Ford theory).
 - [ ] **1.5 IPv6** (Header changes, 128-bit addressing, removal of fragmentation and checksum).
 
